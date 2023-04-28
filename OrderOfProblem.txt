@@ -1,0 +1,16 @@
+1. smallAndGreat
+2. GreatElement
+3. minimumPicks
+4. patternPrinting1
+5. singleNumber
+6. numberOfOneBits
+7. addBinaryStrings
+8. singleNumber3
+9. smallestXOR
+10. reverseBit
+11. adjacentDifferencesArray
+12. arraysConsecutiveElements
+13. countDuplicates
+14. evenOddElements
+15. lowerTriangularMatrix
+16. isIdentityMatrix
